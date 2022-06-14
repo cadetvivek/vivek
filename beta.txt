@@ -1,1 +1,112 @@
-alpha gamma
+beta.txt
+<!DOCTYPE html>
+<html>
+<head>
+	<title>example css</title>
+</head>
+<body>
+<h1><b><mark>project rapes in india-highest incidence</h1>
+<table border="">
+	<caption>priject rapes in india-highest incidence</caption>
+	<tr>
+		<th>state</th>
+		<th>2013</th>
+		<th>2014</th>
+		<th>2015</th>
+		<th>2016</th>
+		<th>2017</th>
+		<th>2018</th>
+	</tr>
+	<tr>
+		<td>Madhya Pradesh</td>
+		<td>4730.44</td>
+		<td>4832.02</td>
+		<td>4933.6</td>
+		<td>5035.18</td>
+		<td>5136.76</td>
+		<td>5238.34</td>
+	</tr>
+	<tr>
+		<td>Utter Pradesh</td>
+		<td>3382.26</td>
+		<td>3529.39</td>
+		<td>3676.52</td>
+		<td>3823.65</td>
+		<td>3970.78</td>
+		<td>4117.9</td>
+	</tr>
+	<tr>
+		<td>Maharastra</td>
+		<td>2511.76</td>
+		<td>2570</td>
+		<td>2628.25</td>
+		<td>2689.49</td>
+		<td>2744.74</td>
+		<td>2802.98</td>
+	</tr>
+	<tr>
+		<td>West Bengal</td>
+		<td>2309.88</td>
+		<td>2386.16</td>
+		<td>2462.43</td>
+		<td>2538.71</td>
+		<td>2614.98</td>
+		<td>2691.26</td>
+	</tr>
+	<tr>
+		<td>Assam</td>
+		<td>1753.44</td>
+		<td>1813.52</td>
+		<td>1873.6</td>
+		<td>1933.68</td>
+		<td>1993.76</td>
+		<td>2053.84</td>
+	</tr>
+	<tr>
+		<td>Andhra Pradesh</td>
+		<td>1777.17</td>
+		<td>1825.17</td>
+		<td>1873.17</td>
+		<td>1921.17</td>
+		<td>1969.17</td>
+		<td>2017.17</td>
+	</tr>
+	<tr>
+		<td>Rajsthan</td>
+		<td>1662.24</td>
+		<td>1728.31</td>
+		<td>1794.37</td>
+		<td>1860.43</td>
+		<td>1926.49</td>
+		<td>1992.56</td>
+	</tr>
+	<tr>
+		<td>Odisa</td>
+		<td>1461.95</td>
+		<td>1523.37</td>
+		<td>1584.79</td>
+		<td>1646.2</td>
+		<td>1707.62</td>
+		<td>1769.03</td>
+	</tr>
+	<tr>
+		<td>Kerala</td>
+		<td>1022.76</td>
+		<td>1070.12</td>
+		<td>1117.48</td>
+		<td>1164.84</td>
+		<td>1212.2</td>
+		<td>1259.56</td>
+	</tr>
+	<tr>
+		<td>Chattisgarh</td>
+		<td>1210.64</td>
+		<td>1218.93</td>
+		<td>1227.22</td>
+		<td>1235.51</td>
+		<td>1243.8</td>
+		<td>1252.09</td>
+	</tr>
+</table>
+</body>
+</html>
